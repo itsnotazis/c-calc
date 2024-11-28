@@ -1,5 +1,10 @@
 # C-CALC CLI
 
+<div align="center">
+<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
+<p>c-calc</p>
+</div>
+
 Simple calculator application based on CLI which built on C
 
 ## Getting Started
